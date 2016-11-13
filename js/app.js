@@ -1,0 +1,2 @@
+$.noConflict()
+jQuery(document).foundation();
